@@ -1,0 +1,34 @@
+*{
+margin:0;
+padding:0;
+background-color: aquamarine;
+
+}
+.header
+{
+  height:8vh;
+  width:100vw;
+  background:blue;
+}
+.section
+{
+  height:82vh;
+  width:80vw;
+  background:red;
+}
+.main
+{
+  display:flex;
+}
+.footer
+{
+  height: 8vh;
+  width:100vw;
+  background:blue;
+}
+.slider
+{
+  height:82vh;
+  width:20vw;
+  background:pink;
+}
